@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), 
-using the [Redux](https://redux.js.org/) , react Testing Library , and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+using the [Redux](https://redux.js.org/) , [react Testing Library](https://testing-library.com/docs/react-testing-library/intro/) , and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 the aim : testing react connected components  (with hooks inside), mocking the redux store
 
