@@ -6,6 +6,8 @@ the aim : testing react connected components  (with hooks inside), mocking the r
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm run start`
+start the application
 
 ### `npm run test`
 
